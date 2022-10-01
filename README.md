@@ -3,8 +3,7 @@
 
 # I am Serkan Eren 
 
-- 📫 How to reach me: srkn_eren@outlook.com
-- 🖋 My website about a lot of things : www.erenserkan.com
+- 📫 How to reach me: serkaneren68@gmail.com
 ---
 
 <p align="left">
@@ -34,7 +33,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: srkn_eren@outlook.com
+- 📫 How to reach me: serkaneren68@gmail.com  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
